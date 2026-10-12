@@ -20,4 +20,4 @@ technologie existante.\
 **Gestion des alertes** : développement d’une IHM sur PC avec affichage de la localisation.
 
 ## Synoptique
-![Synoptique du projet](/img/synoptique.img)
+![Synoptique du projet](/img/synoptique.png)
