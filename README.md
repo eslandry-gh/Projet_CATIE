@@ -11,3 +11,10 @@ remonter l’information d’une alerte détectée sur un sujet ainsi que sa loc
 système de détection devra détecter automatiquement une situation de danger (chute par
 exemple) et remonter ces informations jusqu’au poste central via le réseau maillé
 autodéployé par les membres de l’équipe.
+
+## Tâches à réaliser
+Réseau maillé : étude de Meshtastic et prise en main de la solution technique.\
+Localisation : étude et expérimentation des solutions possibles avec le matériel et la
+technologie existante.\
+Système porté : détection de la perte de connaissance à partir de la centrale inertielle.\
+Gestion des alertes : développement d’une IHM sur PC avec affichage de la localisation.
