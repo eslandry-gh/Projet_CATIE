@@ -21,3 +21,15 @@ technologie existante.\
 
 ## Synoptique
 ![Synoptique du projet](/img/synoptique.png)
+
+## Matériel
+3x systèmes composés de cartes 6TRON (https://6tron.io) pour les nœuds du réseau :\
+· **Zest_Core_FMLR-72** : carte programmable avec radio LoRa\
+· **Zest_Sensor_IMU** : carte d’extension avec centrale inertielle pour la détection de
+mouvement et de chute\
+· **Zest_Battery_LiPo** : carte d’extension intégrant une batterie LiPo, son chargeur et sa
+gauge\
+Le poste central est composé de :\
+· **Zest_Core_FMLR-72** : carte programmable avec radio LoRa
+· un PC relié en USB avec la Zest_Core_FMLR-72
+Le PC n’est pas fourni.
