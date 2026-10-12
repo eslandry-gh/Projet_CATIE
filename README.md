@@ -30,6 +30,6 @@ mouvement et de chute\
 · **Zest_Battery_LiPo** : carte d’extension intégrant une batterie LiPo, son chargeur et sa
 gauge\
 Le poste central est composé de :\
-· **Zest_Core_FMLR-72** : carte programmable avec radio LoRa
-· un PC relié en USB avec la Zest_Core_FMLR-72
+· **Zest_Core_FMLR-72** : carte programmable avec radio LoRa\
+· un PC relié en USB avec la Zest_Core_FMLR-72\
 Le PC n’est pas fourni.
