@@ -1,0 +1,1 @@
+(id du noeud);(état du noeud : INFO ou WARN);(nombre de noeud connecté);(id du noeud connecté 1);(etat du noeud connecté 1);(distance par rapport au noeud connecté 1);(id du noeud connecté 2);(etat du noeud connecté 2);(distance par rapport au noeud connecté 2);...;EOF
